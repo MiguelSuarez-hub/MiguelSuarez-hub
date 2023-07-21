@@ -1,7 +1,5 @@
-<h1 align="center">Hi there 🤙🏽, I'm I'm Miguel Suarez</h1>
+<h1 align="center">Hi there 🤙🏽, I'm Miguel Suarez</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-
-- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
